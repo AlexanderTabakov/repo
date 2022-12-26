@@ -1,0 +1,33 @@
+.title_1 {
+    color: steelblue;
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+}
+
+.title_2 {
+    color:blueviolet;
+    font-size: 30px;
+    font-style: initial;
+    text-align: center;
+}
+
+.title_3 {
+    color: seagreen;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+    margin-right: 800px;
+    margin-left: 60px;
+    display:block ;
+    font-size: medium;
+}
+span {
+    font-weight: bold;
+    font-size: 20px;
+
+}
