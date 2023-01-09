@@ -19,15 +19,36 @@
     text-align: center;
 }
 
-p {
+/* p {
     margin-top: 20px;
-    margin-right: 800px;
-    margin-left: 60px;
+    margin-right: auto;
+    margin-left: auto;
     display:block ;
     font-size: medium;
-}
+} */
+
 span {
     font-weight: bold;
     font-size: 20px;
 
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    }
+
+.article {
+    margin-top: 20px;
+    margin-right: 100PX;
+    margin-left: 20PX;
+    display:block ;
+    font-size: medium;
+
+}
+
+p {
+    text-indent: 30px
 }
